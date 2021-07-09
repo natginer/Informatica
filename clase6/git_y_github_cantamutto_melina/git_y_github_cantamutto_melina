@@ -1,4 +1,0 @@
-a) Linus Torvalds creó Git en 2005 en el desarrollo del kerner de Linux, junto a otros programadores que contribuyeron a su proyecto inicial.
-Por problemas con el controlador de versiones que se usaba hasta entonces BitKeeper, Torvalds quería un sistema como este pero gratis y con ciertas características particulares, para hacerlo más rápido, seguro, controlado y eficiente por lo que desarolló Git.
-b) Microsoft compró GitHub en 2018, como una forma de apostar por el OpenSource y su cambio de mentalidad respecto a estos proyectos.
-c) Si, podemos manejar repositorios desde la web, descargar los archivos. También podemos controlar git desde la interfaz gráfica que ofrecen por ejemplo, con el instalador de Windows. Hay muchas otras formas de usarlo igualmente.
