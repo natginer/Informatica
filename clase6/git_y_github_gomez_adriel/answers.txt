@@ -1,0 +1,5 @@
+1) Lo invento Linus Torvalds porque el controlador de versiones que usaban en su trabajo no era lo suficientemente bueno, 
+entonces creo el suyo.
+2) Github fue comprado por Microsoft en el 2018 por 7500 millones de dolares. Y el porque lo compro, solo dios lo sabe pero 
+supongo que es para poder mejorarlo y adquirir un nuevo producto para la empresa.
+3)Si, hay apps para usar donde se puede visualizar graficamente las ramas, los commits, etc. Como Kraken o el mismo vsc

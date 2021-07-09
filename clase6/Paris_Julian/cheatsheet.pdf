@@ -1,0 +1,8 @@
+clone : sirve para colnar un repositorio / Sintaxis: git clone "url"
+
+cheackout : sirve para moverse entre ramas / Sinatxix : git cheackout "nombre_rama"
+
+add : sirve para agregar un elemento al seguimiento / Sintaxis: git add "file_name"
+
+commit : sirve para enviar los elementos con seguimiento actual / Sintaxis git commit -m "Mensaje"
+

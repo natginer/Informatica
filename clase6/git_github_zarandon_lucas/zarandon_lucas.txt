@@ -1,0 +1,5 @@
+# 1.Git: es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
+# 2.El 4 de junio de 2018, Microsoft anunció la compra de la compañía por un importe de 7500 millones de dólares. Cerrándose la adquisición el 26 de octubre de 2018.
+# 3.Si muchas yo antes de saber usar la consola usaba "github desktop"
+
+
